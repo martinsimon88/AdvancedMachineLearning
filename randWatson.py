@@ -94,7 +94,7 @@ def randWatson(N, mu, k):
     return RandWatson
 
 k=35
-N=1000.0
+N=1000
 mu = [0,0,1]
 
 RandWatson = randWatson(N, mu, k)
